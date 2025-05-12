@@ -1,6 +1,6 @@
 # Algorithm
 
-## Sources
+## CPP Solution
 
 ### Graph
 [백준 1005 - ACM Craft](/Graph/backjoon_1005.cpp) \
@@ -24,11 +24,11 @@
 
 [백준 1929 - 소수 구하기](/Math/backjoon_1929.cpp)
 
-## Solution
+### Summary
 [Graph](/Solution/Graph.pdf) \
 [DP](/Solution/DP.pdf) \
 [Math](/Solution/Math.pdf)
 
 
-## References
+### References
 https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98
