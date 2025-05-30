@@ -24,6 +24,10 @@
 
 [백준 1929 - 소수 구하기](/Cpp/Math/backjoon_1929.cpp)
 
+### Search
+
+[백준 2343 - 기타 레슽](/Cpp/Search/backjoon_2343.cpp)
+
 ### Summary
 [Graph](/Solution/Graph.pdf) \
 [DP](/Solution/DP.pdf) \
