@@ -26,7 +26,7 @@
 
 ### Search
 
-[백준 2343 - 기타 레슽](/Cpp/Search/backjoon_2343.cpp)
+[백준 2343 - 기타 레슨](/Cpp/Search/backjoon_2343.cpp)
 
 ### Summary
 [Graph](/Solution/Graph.pdf) \
